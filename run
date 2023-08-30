@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+echo "compiling..."
+g++ all.cpp $1 -lSDL2
+echo "compiled."
+echo "running..."
+./a.out
+echo "done!!!"
