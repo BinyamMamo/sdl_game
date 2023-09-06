@@ -5,3 +5,5 @@ echo "compiled."
 echo "running..."
 ./a.out
 echo "done!!!"
+echo "edited"
+
